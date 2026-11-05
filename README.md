@@ -1,13 +1,13 @@
 # odoo-live-price-formatter
 
-![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67)
-![Tested](https://img.shields.io/badge/Tested%20On-Odoo%2018-success)
-![Type](https://img.shields.io/badge/Type-Odoo%20Addon-blue)
-![Feature](https://img.shields.io/badge/Feature-Real--Time%20Price%20Formatting-brightgreen)
-![Feature](https://img.shields.io/badge/Feature-Thousands%20Separator-green)
-![Frontend](https://img.shields.io/badge/Frontend-JavaScript-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Tested](https://img.shields.io/badge/Tested%20On-Odoo%2018-22C55E?style=for-the-badge)
+![Type](https://img.shields.io/badge/Type-Odoo%20Addon-3B82F6?style=for-the-badge)
+![Feature](https://img.shields.io/badge/Feature-Real--Time%20Price%20Formatting-22C55E?style=for-the-badge)
+![Feature](https://img.shields.io/badge/Feature-Thousands%20Separator-22C55E?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)
 
 <img width="1376" height="688" alt="Odoo Live Price Formatter - Real-time thousands separator formatting for Odoo price fields" src="https://github.com/user-attachments/assets/4345d9dc-a1cb-4d6a-a104-b856979fcc14" />
 
